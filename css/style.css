@@ -1,0 +1,66 @@
+/***** diseño header*****/
+header{
+    background-color: #E5E5E5;
+    text-align: center;
+    Line height: 29,64px
+    Size: 35px
+    }
+    
+/***** diseño generales*****/
+
+#titulo {
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+    width: 1041px;
+    height: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    }
+
+#titulo1 {
+    background-color: #C4C4C4
+    }
+    
+.colorletra {color: #005677
+    }
+    
+
+/***** diseños listas*****/
+
+.listas {margin-left: 110px}
+
+#span {
+    font-weight: bold
+    }
+#spanc{
+    font-weight: bold;
+    font-style: italic;
+    }
+
+
+/***** diseño footer*****/
+
+footer{
+    background-color: #005677;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+    width: 1440px;
+    height: 37px;
+    margin-top: 10px; 
+    line-height: 16.94px; 
+    font-style: normal;
+    font-size: 20px;
+        }
+
+.imagenredes{
+    margin-left: 20px;
+    height: 20px;
+    top: 996px;
+}
+
+
+
+
+
+
